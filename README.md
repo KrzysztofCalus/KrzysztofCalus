@@ -12,4 +12,4 @@ ____________________________________
 
 - **You can reach me by:**
   - :envelope: krzysztofcalus@gmail.com
-  - :bust_in_silhouette: [LinkedIn](linkedin.com/in/krzysztofcałus)
+  - :bust_in_silhouette: [LinkedIn](https://www.linkedin.com/in/krzysztofcałus)
